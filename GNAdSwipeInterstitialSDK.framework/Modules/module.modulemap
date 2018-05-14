@@ -1,0 +1,6 @@
+framework module GNAdSwipeInterstitialSDK {
+  umbrella header "GNAdSwipeInterstitialSDK.h"
+
+  export *
+  module * { export * }
+}
