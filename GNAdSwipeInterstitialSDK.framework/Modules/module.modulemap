@@ -4,3 +4,8 @@ framework module GNAdSwipeInterstitialSDK {
   export *
   module * { export * }
 }
+
+module GNAdSwipeInterstitialSDK.Swift {
+    header "GNAdSwipeInterstitialSDK-Swift.h"
+    requires objc
+}
