@@ -1,0 +1,16 @@
+PODS:
+  - GNAdSwipeInste (0.0.1)
+
+DEPENDENCIES:
+  - GNAdSwipeInste (from `../../`)
+
+EXTERNAL SOURCES:
+  GNAdSwipeInste:
+    :path: ../../
+
+SPEC CHECKSUMS:
+  GNAdSwipeInste: 032ab7d7ca08a4ce6e10221cbd762cc688463f43
+
+PODFILE CHECKSUM: a0b351f60b2b98d21841c03663d76b59ee8f4733
+
+COCOAPODS: 1.4.0
